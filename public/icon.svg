@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="116" fill="#fffaf0"/>
+  <circle cx="256" cy="264" r="192" fill="#e2f1df"/>
+  <path d="M174 154C174 111 227 102 256 137C285 102 338 111 338 154C338 191 285 222 256 244C227 222 174 191 174 154Z" fill="#ee9483"/>
+  <g stroke="#467461" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="130" cy="326" rx="23" ry="34" transform="rotate(36 130 326)" fill="#aacfb2"/>
+    <ellipse cx="217" cy="336" rx="23" ry="34" transform="rotate(-24 217 336)" fill="#aacfb2"/>
+    <ellipse cx="116" cy="247" rx="23" ry="32" transform="rotate(-37 116 247)" fill="#aacfb2"/>
+    <ellipse cx="172" cy="289" rx="64" ry="72" transform="rotate(-17 172 289)" fill="#86b398"/>
+    <path d="m150 255 32-8 23 26-7 36-31 11-25-28Z" fill="#b4d8ae"/>
+    <ellipse cx="223" cy="245" rx="40" ry="36" transform="rotate(-17 223 245)" fill="#c4dfb6"/>
+    <path d="m247 257-7 5"/>
+    <ellipse cx="382" cy="326" rx="23" ry="34" transform="rotate(-36 382 326)" fill="#aacfb2"/>
+    <ellipse cx="295" cy="336" rx="23" ry="34" transform="rotate(24 295 336)" fill="#aacfb2"/>
+    <ellipse cx="396" cy="247" rx="23" ry="32" transform="rotate(37 396 247)" fill="#aacfb2"/>
+    <ellipse cx="340" cy="289" rx="64" ry="72" transform="rotate(17 340 289)" fill="#86b398"/>
+    <path d="m362 255-32-8-23 26 7 36 31 11 25-28Z" fill="#b4d8ae"/>
+    <ellipse cx="289" cy="245" rx="40" ry="36" transform="rotate(17 289 245)" fill="#c4dfb6"/>
+    <path d="m265 257 7 5"/>
+  </g>
+  <g fill="#365547"><circle cx="231" cy="238" r="5"/><circle cx="281" cy="238" r="5"/></g>
+  <g fill="#efa994"><ellipse cx="228" cy="254" rx="9" ry="5"/><ellipse cx="284" cy="254" rx="9" ry="5"/></g>
+  <g fill="#fffaf0"><circle cx="170" cy="173" r="8"/><circle cx="350" cy="190" r="6"/><path d="m377 131 5 14 15 5-15 5-5 14-5-14-15-5 15-5Z"/></g>
+  <path d="M139 398q28-15 56 0t56 0t56 0t56 0" fill="none" stroke="#aacfb2" stroke-width="9" stroke-linecap="round"/>
+</svg>

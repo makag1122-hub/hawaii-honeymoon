@@ -19,8 +19,6 @@
   --sun-soft: #fbeecd;
   --shadow: 0 10px 24px rgba(120, 100, 70, .14);
   --radius: 20px;
-  /* 손글씨체는 표지 제목에만 쓰고, 읽어야 하는 글자는 모두 고딕으로 씁니다. */
-  --font-hand: 'Gaegu', 'Noto Sans KR', system-ui, sans-serif;
   --font-body: 'Noto Sans KR', system-ui, -apple-system, 'Segoe UI', 'Malgun Gothic', sans-serif;
   color-scheme: light;
 }
@@ -60,7 +58,7 @@ input, select, textarea { font: inherit; color: inherit; }
 .cover-top { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
 .cover-actions { display: flex; gap: 4px; }
 .eyebrow { font-size: 13px; font-weight: 500; letter-spacing: .06em; color: var(--ink-soft); }
-.cover h1 { font-family: var(--font-hand); font-size: 32px; margin-top: 6px; padding-right: 52px; text-wrap: balance; }
+.cover h1 { font-size: 28px; margin-top: 7px; padding-right: 52px; text-wrap: balance; }
 .cover-people { font-size: 15px; font-weight: 500; color: var(--coral); }
 .cover-dates { display: flex; align-items: center; gap: 6px; font-size: 14.5px; color: var(--ink-soft); margin-top: 4px; }
 .cover .chip { margin-top: 8px; }
@@ -68,7 +66,7 @@ input, select, textarea { font: inherit; color: inherit; }
 .cover-flower { position: absolute; top: 38px; right: -22px; width: 88px; opacity: .3; transform: rotate(14deg); pointer-events: none; }
 /* 오늘 화면 밖에서는 표지를 접어, 목록이 첫 화면에서 바로 보이게 합니다. */
 .cover.compact { padding-bottom: 12px; }
-.cover.compact h1 { font-size: 24px; padding-right: 8px; }
+.cover.compact h1 { font-size: 21px; padding-right: 8px; }
 .cover.compact .cover-people, .cover.compact .cover-dates, .cover.compact .island-art, .cover.compact .cover-flower { display: none; }
 .cover.compact .chip { margin-top: 6px; }
 
